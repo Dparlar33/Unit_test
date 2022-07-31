@@ -2,7 +2,7 @@
 
 In this assignment, I wrote functions to pass the tests with the cases need to pass.
 
-Every tests have several cases, the cases has to be `table driven design testing` and `all cases must pass!`
+There are 6 functions / algorithm in the assignment and tests of them . `table driven design testing` and `all cases must pass!`
 
 ## Test Run
 ```
